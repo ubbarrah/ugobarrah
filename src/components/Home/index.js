@@ -45,7 +45,6 @@ const Home = () => {
             
             
         </div>
-        <Tree />
     </div>
     
     );
