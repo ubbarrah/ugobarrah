@@ -7,7 +7,7 @@ const Tree = () => {
 
 
     return(
-        <div className="tree-container" ref={bgRef}>
+        <div className="tree-container">
             
             <img className='cherry-tree' src={cherryTree} alt='tree photo'/>
         </div>
