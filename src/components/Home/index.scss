@@ -1,0 +1,54 @@
+.home-page {
+    position: relative;
+    .portrait {
+        img {
+            width: 100%;
+        }
+    }
+    .text-zone {
+        height:744px;
+        font-family: "JetBrains";
+        margin-left:100px;
+        width: 50%;
+        padding: 10px;
+        opacity:0;
+        animation: fadeIn 1.5s .5s;
+        animation-fill-mode: forwards;
+
+        //position: relative;
+        .sen1 {
+            padding-top: 200px;
+            color:#f0dfcb
+        }
+        .sen2 {
+            padding-top: 40px;
+          
+            //margin: 2;
+            //color: #ffffff;
+            //padding-left: 130px;
+            //padding-top: 20px;
+
+            
+
+        }
+        .sen3 {
+            padding-top: 40px;
+            color:#f3ad79
+        }
+        .sen4  {
+            padding-top: 40px;
+            color:#ab7c68
+        }
+        .sen5 {
+            padding-top: 40px;
+            color:#6d4f47;
+            //padding-bottom: 100px;
+        }
+    }
+    .script-zone {
+        display: block;
+        position: absolute;
+        height: 20px;
+        width: 20px;
+    }
+}
