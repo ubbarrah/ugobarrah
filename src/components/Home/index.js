@@ -30,7 +30,7 @@ const Home = () => {
             </div>
             <div className='sen2'>
 
-                During his K-12 education, Ugo Barrah couldn’t help but notice the stark contrast 
+                During my K-12 education, Ugo Barrah couldn’t help but notice the stark contrast 
                 in STEM resources available to him in the U.S. compared to those accessible to his 
                 peers in sub-Saharan Africa, where his parents were born and where he visited as a child. 
              
