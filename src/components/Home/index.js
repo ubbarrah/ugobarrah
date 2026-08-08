@@ -30,26 +30,20 @@ const Home = () => {
             </div>
             <div className='sen2'>
 
-                During my K-12 education, Ugo Barrah couldn’t help but notice the stark contrast 
-                in STEM resources available to him in the U.S. compared to those accessible to his 
-                peers in sub-Saharan Africa, where his parents were born and where he visited as a child. 
+                All theoughout my high school and college education, I couldn’t help but notice the stark contrast 
+                in STEM resources available to me in the U.S compared to those accessible to my 
+                peers in sub-Saharan Africa, where my parents were born and where I visited as a child. 
              
             </div>
             <div className='sen3'>
-                During his high school at Phillips Exeter Academy, Ugo founded STEMsubSahara.org 
-                to assist the neediest of the kids in subSaharan Africa with interest in STEM by 
-                providing them with essential resources and mobile devices for STEM education. 
-                {/* 私の趣味は外国語を勉強することです。- Japanese for "my hobby is learning foreign languages." */}
+               That's why I devoted myself to making software tailored specifically toward helping equalize the STEM playing field. 
+               The application is called Treer. Try it out in the code section on my website. it is available for MacOS and soon iPhone and Android as well.
             </div>
             <div className='sen4'>
-                Our long term goal is to further develop this site as a platform that centers on personalized 
-                one-on-one mentorship, STEM broadcasts, peer connections, AI, and video links to create an 
-                interactive and supportive learning experience for the neediest of the kids in the subSaharan 
-                to access STEM resources in rural communities where there no internet.
-
+                If you want to contact me, I linked my socials below!
             </div>
             <div className='sen5'>
-                If you want to contact me, I linked my socials below!
+                
             </div>
             
             
