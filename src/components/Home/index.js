@@ -34,9 +34,6 @@ const Home = () => {
                 in STEM resources available to him in the U.S. compared to those accessible to his 
                 peers in sub-Saharan Africa, where his parents were born and where he visited as a child. 
              
-                {/* I like computer science! 
-                I mostly create programs, draw digital art, and code websites like this one. 
-                This website was made with React, Nodejs, and some of my favorite js libraries. */}
             </div>
             <div className='sen3'>
                 During his high school at Phillips Exeter Academy, Ugo founded STEMsubSahara.org 
